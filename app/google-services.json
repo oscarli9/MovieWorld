@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728412321791",
+    "firebase_url": "https://movieworld-12df2.firebaseio.com",
+    "project_id": "movieworld-12df2",
+    "storage_bucket": "movieworld-12df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728412321791:android:4daeace00cb2721803d9ca",
+        "android_client_info": {
+          "package_name": "com.hfad.movieworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728412321791-7a8cis1lg7vtp7j1abccaqj44riskca2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdPhdf0MYoTmGcmNE0uXvAmmtBboZ1SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728412321791-7a8cis1lg7vtp7j1abccaqj44riskca2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
