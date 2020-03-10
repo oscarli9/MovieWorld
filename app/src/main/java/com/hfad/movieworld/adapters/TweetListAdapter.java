@@ -37,7 +37,7 @@ public class TweetListAdapter extends RecyclerView.Adapter<TweetListAdapter.Twee
     private static Retrofit retrofit = null;
     private final static String TAG = TweetListAdapter.class.getSimpleName();
     private final static String BASE_URL = "https://api.themoviedb.org/3/";
-    private final static String API_KEY = "2ae11ada89bb0991f85cb8e1f6027d41";
+    private final static String API_KEY = "YOUR_API_KEY";
 
     public TweetListAdapter(@NonNull String userId, @NonNull List<Tweet> tweets) {
         super();
